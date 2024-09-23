@@ -19,10 +19,10 @@ Bu proje, HTML ve CSS kullanarak geliştirdiğim bir restoran web sitesidir. Tem
   
 - Responsive tasarım
 
-  # Ekran Kaydı
-  Projenin nasıl göründüğüne dair bir fikir edinmek için aşağıdaki gif'e göz atabilirsiniz
+# Ekran Kaydı
+Projenin nasıl göründüğüne dair bir fikir edinmek için aşağıdaki gif'e göz atabilirsiniz
 
-  ![restaurantapp](https://github.com/user-attachments/assets/a2e1365e-78a2-405a-8101-42fdf3549568)
+![restaurantapp](https://github.com/user-attachments/assets/a2e1365e-78a2-405a-8101-42fdf3549568)
 
-  # Site Linki
-  https://restaurantsmenuapp.netlify.app/
+# Site Linki
+https://restaurantsmenuapp.netlify.app/
